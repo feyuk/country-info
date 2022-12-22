@@ -1,7 +1,7 @@
 # Country-Info
 
 
-<img src="country-image-preview-image.png" alt="preview"/>
+<img src="./country-image-preview.png" alt="preview"/>
 
 Search for a country and check about the border information.
 
