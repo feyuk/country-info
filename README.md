@@ -3,12 +3,10 @@
 
 <img src="./country-image-preview.png" alt="preview"/>
 
-Search for a country and check about the border information.
-
 
 ### About App
 
-This app generates Qr Code based on the url entered.
+Search for a country and check important information.
 
 Features: 
 
