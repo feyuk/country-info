@@ -6,7 +6,8 @@
 
 ### About App
 
-Search for a country and check important information.
+An informative web application that provides detailed information about countries worldwide. Users can search for countries and view data such as population, capital, region, and more. Built with React and powered by a public REST API, this project demonstrates the integration of external data sources and the use of responsive design principles for a smooth user experience.
+
 
 Features: 
 
